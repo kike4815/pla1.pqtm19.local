@@ -86,7 +86,45 @@ com podem veure, tot funciona correctament amb els ports oberts "escoltant"
 
 Anem a crear la carpeta on  volem el **directori Arrel**:  
 
-![aquí va la primera imatge](./media/virtualhost/Captura1.PNG)  
+![aquí va la primera imatge](./media/virtualhost/1.PNG)   
+
+ara haurem d'anar al directori http.vhosts.config per crear el servidor virtual:
+
+![aquí va la primera imatge](./media/virtualhost/2.PNG)    
+
+L'editem amb click dret i el Notepadd++
+
+![aquí va la primera imatge](./media/virtualhost/3.PNG)  
+
+Hem marcat amb color groc les linees a modificar (recordem l'arxiu creat anteriorment)    
+
+![aquí va la primera imatge](./media/virtualhost/4.PNG)  
+
+Aprofitem un Virtual Host que teniem anteriorment creat i modifiquem el directori corresponent    
+
+![aquí va la primera imatge](./media/virtualhost/5.PNG)  
+
+ens falta definir la dir-li al nostre servidor com es dira la pàgina:    
+
+![aquí va la primera imatge](./media/virtualhost/6.PNG)  
+
+En la següent imatge ens salta l'avís de que hem de modificar-ho com administrador, sense cap problema..    
+
+![aquí va la primera imatge](./media/virtualhost/7.PNG)  
+
+Per comprovar que tot funciona primerament hem de reiniciar el Apache    
+
+![aquí va la primera imatge](./media/virtualhost/8.PNG)  
+
+Ja està reiniciat i sembla que de moment funciona (el Apache i el MySQL estan escoltant així que bona senyal)    
+
+![aquí va la primera imatge](./media/virtualhost/9.PNG)  
+
+entrem a la nostra pàgina web i...    
+
+![aquí va la primera imatge](./media/virtualhost/10.PNG)   
+
+>>ja la tenim!!!!
 
 
 ### 3.Instal·lació de Eclipse
