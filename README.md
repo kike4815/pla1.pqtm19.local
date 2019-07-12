@@ -129,12 +129,137 @@ entrem a la nostra pàgina web i...
 
 ### 3.Instal·lació de Eclipse
 
+Lo primer és instal·lar el programa _Eclipse_:
+
+![primera foto](./media/Eclipse/Install_Eclipse/1.PNG)  
+  
+descarreguem la versió 64 bit
+  
+![primera foto](./media/Eclipse/Install_Eclipse/2.PNG)  
+
+Cliquem a Download:  
+
+![primera foto](./media/Eclipse/Install_Eclipse/3.PNG)  
+
+Esperem a descarregar-ho i obrim l'arxiu executable  
+
+![primera foto](./media/Eclipse/Install_Eclipse/4.PNG)  
+
+És necessari que descarreguem l'arxiu de Java ja que treballen junts els dos programes:  
+
+![primera foto](./media/Eclipse/Install_Eclipse/5.PNG)  
+
+Acceptem llicencia i endavant!  
+
+![primera foto](./media/Eclipse/Install_Eclipse/6.PNG)  
+
+Ja el tenim descarregat i ara es quan toca executar-ho  
+
+![primera foto](./media/Eclipse/Install_Eclipse/7.PNG)  
+
+Comencem amb l'instal·lador fent Next:  
+
+![primera foto](./media/Eclipse/Install_Eclipse/8.PNG)  
+
+La ubicació de l'arxiu per defecte és correcte  
+
+![primera foto](./media/Eclipse/Install_Eclipse/9.PNG)  
+
+
+![primera foto](./media/Eclipse/Install_Eclipse/10.PNG)  
+
+i acabem tancant una vegada descarregats tots els arxius 
+
+
+![primera foto](./media/Eclipse/Install_Eclipse/11.PNG)  
+
+S'obre el programa i escollim l'opció de PHP (com veiem hi ha de tot tipus)  
+
+![primera foto](./media/Eclipse/Install_Eclipse/12.PNG)  
+  
+
+**ALERTA:**  **instal·lar l'Eclipse al Directori on tenim els projectes que volem crear i modificar per no tenir que dir-li en tot moment la ruta on buscar-los**
+
+
+![primera foto](./media/Eclipse/Install_Eclipse/13.PNG)  
+
+Acceptem les condicions que ens ofereix el programa  
+
+![primera foto](./media/Eclipse/Install_Eclipse/14.PNG)  
+
+i Instal·lem..  
+
+![primera foto](./media/Eclipse/Install_Eclipse/15.PNG)  
+
+
+![primera foto](./media/Eclipse/Install_Eclipse/16.PNG)  
+
+
+
+![primera foto](./media/Eclipse/Install_Eclipse/17.PNG)  
+
+Ara només hem de Iniciar l'Eclipse:    
+
+![primera foto](./media/Eclipse/Install_Eclipse/18.PNG)  
+
+![primera foto](./media/Eclipse/Install_Eclipse/19.PNG)  
+
+i acabem **definint** el Espai de Treball de Eclipse:  
+
+![primera foto](./media/Eclipse/Install_Eclipse/20.PNG)
+
 ### 4.Definició de WorkSpace
 
-### 5.Definició de Projecte
+![./media/Eclipse/Workspace.PNG](./media/Eclipse/Workspace.PNG)  
 
-### 6.Definició de Repositori local
+
+### 5.Definició de Projecte  
+
+![./media/Eclipse/Workspace.PNG](./media/Eclipse/1.PNG)  
+
+![./media/Eclipse/Workspace.PNG](./media/Eclipse/2.PNG)  
+
+![./media/Eclipse/Workspace.PNG](./media/Eclipse/3.PNG)  
+
+  
+
+### 6.Definició de Repositori local  
+
+![./media/Eclipse/Workspace.PNG](./media/Eclipse/git_pas1.PNG)  
+
+![./media/Eclipse/Workspace.PNG](./media/Eclipse/git_pas2.PNG)  
+
+![./media/Eclipse/Workspace.PNG](./media/Eclipse/git_pas3.PNG)  
+
+![./media/Eclipse/Workspace.PNG](./media/Eclipse/git_pas4.PNG)  
+
+![./media/Eclipse/Workspace.PNG](./media/Eclipse/git_pas5.PNG)  
+
+![./media/Eclipse/Workspace.PNG](./media/Eclipse/git_pas6_ignore.PNG)   
+  
+
+  
+
 
 ### 7.Creació de Repositori de GitHub
 
+![./media/Eclipse/Workspace.PNG](./media/GitHub/1.PNG)   
+
+![./media/Eclipse/Workspace.PNG](./media/GitHub/2.PNG)   
+
+![./media/Eclipse/Workspace.PNG](./media/GitHub/3.PNG)   
+
+
+
+ 
+
+   
+
+
 ### 8.Exportació de la branca "master" local sobre repositori GitHub
+
+![./media/Eclipse/Workspace.PNG](./media/GitHub/4.PNG)   
+
+![./media/Eclipse/Workspace.PNG](./media/GitHub/5.PNG)   
+
+![./media/Eclipse/Workspace.PNG](./media/GitHub/6.PNG)   
