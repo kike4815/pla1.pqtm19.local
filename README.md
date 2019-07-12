@@ -6,7 +6,7 @@
 
 |------------------------------------:|
 
-|1.Instal·lació Xampp|
+| 1.Instal·lació Xampp |
 
 |2.Configuració Virtual Host d'Apache|
 
@@ -21,4 +21,5 @@
 |7.Creació de Repositori de GitHib|
 
 |8.Exportació de la branca "master" local sobre repositori GitHub|
+
 
