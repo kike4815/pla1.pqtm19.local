@@ -2,7 +2,7 @@
 ---
 ## _Introducció_
 
-| LLista del contingut del document |
+ LLista del contingut del document 
 
 |:------------------------------------:|
 
