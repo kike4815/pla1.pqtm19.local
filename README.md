@@ -210,6 +210,8 @@ i acabem **definint** el Espai de Treball de Eclipse:
 
 ### 4.Definició de WorkSpace
 
+El workspace es la carpeta on es guardaran tots els arxius que generi Eclipse, tant codi font como codi compilat i codi del propi Eclipse.
+
 ![./media/Eclipse/Workspace.PNG](./media/Eclipse/Workspace.PNG)  
 
 
@@ -217,7 +219,11 @@ i acabem **definint** el Espai de Treball de Eclipse:
 
 ![./media/Eclipse/Workspace.PNG](./media/Eclipse/1.PNG)  
 
-![./media/Eclipse/Workspace.PNG](./media/Eclipse/2.PNG)  
+Escollim un Projecte General  
+
+![./media/Eclipse/Workspace.PNG](./media/Eclipse/2.PNG)   
+
+Aqui posarem el nom del projecte a definir (posarem el mateix que la futura pàgina web) 
 
 ![./media/Eclipse/Workspace.PNG](./media/Eclipse/3.PNG)  
 
@@ -225,15 +231,28 @@ i acabem **definint** el Espai de Treball de Eclipse:
 
 ### 6.Definició de Repositori local  
 
+Per definir el repositori local primer farem buscarem la pestanya marcada a la imatge:  
+
+
 ![./media/Eclipse/Workspace.PNG](./media/Eclipse/git_pas1.PNG)  
+
+Farem click al contenidor + per crear un nou  
 
 ![./media/Eclipse/Workspace.PNG](./media/Eclipse/git_pas2.PNG)  
 
+  
+
+escollim el nom del projecte en questió   
+
 ![./media/Eclipse/Workspace.PNG](./media/Eclipse/git_pas3.PNG)  
+
+Comprovem com ha funcionat:  
 
 ![./media/Eclipse/Workspace.PNG](./media/Eclipse/git_pas4.PNG)  
 
 ![./media/Eclipse/Workspace.PNG](./media/Eclipse/git_pas5.PNG)  
+
+important esborrar l'arxiu per defecte que ens crea el Git ja que no ens interessa un nou projecte fet per Git  
 
 ![./media/Eclipse/Workspace.PNG](./media/Eclipse/git_pas6_ignore.PNG)   
   
@@ -243,9 +262,15 @@ i acabem **definint** el Espai de Treball de Eclipse:
 
 ### 7.Creació de Repositori de GitHub
 
-![./media/Eclipse/Workspace.PNG](./media/GitHub/1.PNG)   
+![./media/Eclipse/Workspace.PNG](./media/GitHub/1.PNG)  
 
-![./media/Eclipse/Workspace.PNG](./media/GitHub/2.PNG)   
+Creem el nou repositori al GitHub amb el nom del nostre projecte local  
+
+![./media/Eclipse/Workspace.PNG](./media/GitHub/2.PNG)  
+
+i copiem la direcció URI per després poder-ho pujar del nostre projecte local al projecte GitHub
+
+   
 
 ![./media/Eclipse/Workspace.PNG](./media/GitHub/3.PNG)   
 
@@ -256,10 +281,16 @@ i acabem **definint** el Espai de Treball de Eclipse:
    
 
 
-### 8.Exportació de la branca "master" local sobre repositori GitHub
+### 8.Exportació de la branca "master" local sobre repositori GitHub  
 
-![./media/Eclipse/Workspace.PNG](./media/GitHub/4.PNG)   
+En el nostre repositori local fem un Push a la branca principal (ja que no tenim cap branca secundaria)
 
-![./media/Eclipse/Workspace.PNG](./media/GitHub/5.PNG)   
+![./media/Eclipse/Workspace.PNG](./media/GitHub/4.PNG)  
+
+enganxem la nostra URI (CTRL + V)   
+
+![./media/Eclipse/Workspace.PNG](./media/GitHub/5.PNG)  
+
+Rèplica feta!!!   
 
 ![./media/Eclipse/Workspace.PNG](./media/GitHub/6.PNG)   
