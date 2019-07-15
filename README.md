@@ -2,9 +2,9 @@
 ---
 ## _Introducció_
 
- LLista del contingut del document 
+ __LLista del contingut del document__ 
 
-|:------------------------------------:|
+
 
 | 1.Instal·lació Xampp |
 
